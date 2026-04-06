@@ -12,7 +12,7 @@ export default function Navbar() {
     const links = [
         { to: '/dashboard', icon: LayoutDashboard, label: 'Dashboard' },
         { to: '/resources', icon: Building2, label: 'Resources' },
-        { to: '/bookings', icon: CalendarCheck, label: 'Bookings' },
+        { to: '/bookings', icon: CalendarCheck, label: 'Bookings ' },
         { to: '/tickets', icon: Ticket, label: 'Tickets' },
         { to: '/notifications', icon: Bell, label: 'Notifications' },
     ]
